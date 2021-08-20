@@ -1,4 +1,4 @@
-// Il ya 3 type de variable en JavaScript
+// Il ya 3 types de variable en JavaScript
 // ==> Number, ==> String, ==> boolean
 
 // DOM Elements
