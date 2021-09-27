@@ -30,3 +30,41 @@ p {
 .my-form {
   margin: 30px;
 }
+/* ============= */
+.app {
+  max-width: 500px;
+  border: 2px solid #EEE;
+  padding: 10px;
+  margin: 30px;
+}
+
+input,
+button {
+  padding: 3px 10px;
+}
+
+input,
+h3 {
+  margin-left: 30px;
+}
+
+.success {
+  padding: 15px;
+  margin-top: 15px;
+  text-align: center;
+  color:#10ac84;
+  background-color: #55efc368;
+  border-radius: 5px;
+}
+
+.danger {
+  margin-top: 15px;
+  text-align: center;
+  color:#ee5253;
+  background-color: #ee525268;
+  border-radius: 5px;
+}
+
+button {
+  cursor: pointer;
+}
